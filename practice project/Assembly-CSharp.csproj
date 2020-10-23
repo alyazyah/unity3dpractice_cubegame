@@ -57,6 +57,7 @@
   <ItemGroup>
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\FollowPlayer.cs" />
+     <Compile Include="Assets\PlayerCollision.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/alyaziaalmarzouqi/Documents/GitHub/unity3dpractice/practice project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
