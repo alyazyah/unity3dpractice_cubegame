@@ -1,8 +1,12 @@
 # unity3dpractice
 
-Unity3D practice
+Unity3D practice – Basic Cube Game
 
-I will be following these tutorials:
+## Following this tutorial:
 * https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6
-* https://learn.unity.com/tutorial/playing-video-in-unity
-* http://gyanendushekhar.com/2020/03/15/play-video-in-unity-3d/
+
+## Dependencies:
+Unity 2020.1.8f1
+
+## How it works:
+
